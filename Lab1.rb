@@ -28,3 +28,5 @@ my_num = 1
 
 # 7. Create at least one more object of the same type, and create an array of these objects. Iterate through the array and 
 # print to the console one field, such as thre first name. 
+
+here are changes
